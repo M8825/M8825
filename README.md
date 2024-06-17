@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 👨🏻‍💻 I'm currently working on my blog
-- 📖 I'm currently learning DS&A
+- 📖 I'm currently learning DS&A and Python
 - 👀 I use vim, btw
 
 ## Languages and Tools :
