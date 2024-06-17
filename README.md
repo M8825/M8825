@@ -1,7 +1,9 @@
 # Hi there 👋
 
-- 👨🏻‍💻 I'm currently working on my blog
+- 👨🏻‍💻 I'm currently working on my blog, I previously worked as a backend engineer at Go Consultancy Group
 - 📖 I'm currently learning DS&A and Python
+- 🏋🏻 In my free time, I like to go to the gym and spend time with my son
+- 📫 How to reach me: email me at maho.mamulashvili@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/malkhaz-mamulashvili-703a97208/).
 - 👀 I use vim, btw
 
 ## Languages and Tools :
